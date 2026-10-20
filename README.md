@@ -64,8 +64,8 @@ Looking for a zero-setup browser demo?
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/slimft-dev/qruniverse-studio.git
-cd qruniverse-studio
+git clone https://github.com/slimft-dev/QRuniverse-studio.git
+cd QRuniverse-studio
 ```
 
 ### 2. Configure Environment Variables
